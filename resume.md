@@ -3,15 +3,15 @@ Muhammad Alif Nurrofli Lubis
 Mahasiswa Ilmu Komputer IPB
 
 
-Telaga Kahuripan Blok DD 9 No.6 
+*Telaga Kahuripan Blok DD 9 No.6*
 
-+62 812 8396 7882 
+*+62 812 8396 7882*
 
-alifnurrofli@gmail.com
+*alifnurrofli@gmail.com*
 
 Pendidikan
 -
-__Institut Pertanian Bogor — _SKomp_ __
+__Institut Pertanian Bogor — _SKomp___
 
 Jul 2005 – Nov 2011: Sarjana Komputer dengan minor Fisika Instrumentasi.
 
