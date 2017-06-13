@@ -11,7 +11,7 @@ Mahasiswa Ilmu Komputer IPB
 
 Pendidikan
 -
-__Institut Pertanian Bogor — _SKomp___
+__Institut Pertanian Bogor — *SKomp*__
 
 Jul 2005 – Nov 2011: Sarjana Komputer dengan minor Fisika Instrumentasi.
 
